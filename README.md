@@ -53,6 +53,6 @@ Contributions are welcome! If you'd like to contribute to this project, please o
 
 ## Authors
 
-This project was developed by ryugel.
+This project was developed by franmalth.
 
 
